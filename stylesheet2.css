@@ -1,0 +1,22 @@
+img {
+padding-left:600px;
+}
+
+#search {
+padding-left:100px;
+padding-right:100px;
+clear:both;
+position:relative;
+margin-top:50px;
+text-align: center;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #FFFFFF;
+	background-color: #FFFFFF;
+	height: 30px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
